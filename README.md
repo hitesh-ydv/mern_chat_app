@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+[Demo Link](https://mern-chat-app-4p4s.onrender.com/)
 
 Highlights:
 
